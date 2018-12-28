@@ -1,2 +1,4 @@
 # hello-world
-First repo, following the tutorial.
+
+Learning about branches and pull requests. 
+New to programming, love it!
